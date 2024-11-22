@@ -9,3 +9,6 @@ Inicialmente se usará solo HTML. El objetivo es practicar la estructura de un s
 - Creación de estructuras básicas de HTML.
 - Uso de etiquetas para enlaces, imágenes, listas y texto.
 - Organización de contenido web de manera semántica.
+
+Live preview
+https://jokercg.github.io/odin-recipes/
